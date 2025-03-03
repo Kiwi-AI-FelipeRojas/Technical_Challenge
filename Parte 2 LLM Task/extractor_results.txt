@@ -1,0 +1,82 @@
+[
+    {
+        "Restaurant":"Sunshine Caf ",
+        "Order ID":"1003",
+        "Food item names":"Chicken Sandwich, Fruit Smoothie, Brownie",
+        "Actions taken":"Load, Prepare",
+        "Time of action":"03\/02\/2025 12:30 PM",
+        "Total Price":"$17.47"
+    },
+    {
+        "Restaurant":"The Veggie Spot",
+        "Order ID":"1010",
+        "Food item names":"Quinoa Salad, Avocado Toast, Berry Smoothie",
+        "Actions taken":"Load, Prepare",
+        "Time of action":"03\/02\/2025 2:15 PM",
+        "Total Price":"$22.47"
+    },
+    {
+        "Restaurant":"Bistro Belle",
+        "Order ID":"1002",
+        "Food item names":"Beef Bourguignon, French Onion Soup, Creme Brulee",
+        "Actions taken":"Load, Prepare, Refill",
+        "Time of action":"03\/02\/2025 12:15 PM",
+        "Total Price":"$32.47"
+    },
+    {
+        "Restaurant":"Urban Grill",
+        "Order ID":"1005",
+        "Food item names":"BBQ Ribs, Coleslaw, Apple Pie",
+        "Actions taken":"Load, Prepare",
+        "Time of action":"03\/02\/2025 1:00 PM",
+        "Total Price":"$24.47"
+    },
+    {
+        "Restaurant":"Green Garden",
+        "Order ID":"1004",
+        "Food item names":"Vegetable Stir Fry, Miso Soup, Matcha Ice Cream",
+        "Actions taken":"Load, Prepare",
+        "Time of action":"03\/02\/2025 12:45 PM",
+        "Total Price":"$18.47"
+    },
+    {
+        "Restaurant":"Italian Feast",
+        "Order ID":"1007",
+        "Food item names":"Margherita Pizza, Minestrone Soup, Tiramisu",
+        "Actions taken":"Load, Prepare, Refill",
+        "Time of action":"03\/02\/2025 1:30 PM",
+        "Total Price":"$25.97"
+    },
+    {
+        "Restaurant":"Seaside Eats",
+        "Order ID":"1006",
+        "Food item names":"Shrimp Tacos, Guacamole, Churros",
+        "Actions taken":"Load, Prepare",
+        "Time of action":"03\/02\/2025 1:15 PM",
+        "Total Price":"$20.47"
+    },
+    {
+        "Restaurant":"Tokyo Dine",
+        "Order ID":"1009",
+        "Food item names":"Sushi Platter, Edamame, Mochi",
+        "Actions taken":"Load, Prepare, Refill",
+        "Time of action":"03\/02\/2025 2:00 PM",
+        "Total Price":"$27.97"
+    },
+    {
+        "Restaurant":"Spice Route",
+        "Order ID":"1008",
+        "Food item names":"Chicken Curry, Naan Bread, Mango Lassi",
+        "Actions taken":"Load, Prepare",
+        "Time of action":"03\/02\/2025 1:45 PM",
+        "Total Price":"$20.97"
+    },
+    {
+        "Restaurant":"The Veggie Spot",
+        "Order ID":"1010",
+        "Food item names":"Quinoa Salad, Avocado Toast, Berry Smoothie",
+        "Actions taken":"Load, Prepare",
+        "Time of action":"03\/02\/2025 2:15 PM",
+        "Total Price":"$22.47"
+    }
+]

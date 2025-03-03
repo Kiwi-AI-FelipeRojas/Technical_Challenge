@@ -1,7 +1,0 @@
-#Path to the data set
-train: images/train/
-val: images/val/
-# Number of identified classes
-nc: 3  
-# Name of the classes
-names: ["burger", "pizza", "fries"]  
